@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\c++ source codes\external trainer (german tut)\external trainer\external trainer\adrclass.h(15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\c++ source codes\external trainer (german tut)\external trainer\external trainer\adrclass.h(15): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  External Trainer.vcxproj -> C:\C++ Source Codes\External Trainer (german tut)\External Trainer\Debug\External Trainer.exe
