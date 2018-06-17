@@ -213,6 +213,6 @@ void WriteToMemory(HANDLE hProchandle)
 		DWORD SpeedAdressToWrite = FindDmaAdress(1, hProchandle, Geschwindigkeit->GetClassOffsets(), Geschwindigkeit->GetClassBaseAdress());
 		WriteProcessMemory(hProchandle, (BYTE*)SpeedAdressToWrite, Geschwindigkeit->GetClassValue(), sizeof(Geschwindigkeit->GetClassValue())-1, NULL);
 	}
-
+	 //hi
 
 }
